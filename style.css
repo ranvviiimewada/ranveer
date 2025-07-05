@@ -12,6 +12,8 @@
 #pera1{
 color: brown;
 font-style: italic;
+width: 10px;
+text-transform: uppercase;
 }
 
 
@@ -26,4 +28,7 @@ text-transform: uppercase;
 .pera2{
 color: rgb(226, 43, 165);
 background-color: rgb(76, 226, 43);
+width: 10px;
+text-transform: uppercase;
+
 }
