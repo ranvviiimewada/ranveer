@@ -1,0 +1,29 @@
+/* p{ */
+            /* color: brown;
+            background-color: blanchedalmond;
+            font-size: 30px;
+            font-weight: bolder;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-decoration:underline ;
+            font-style: italic;
+            letter-spacing: 10px;
+            text-transform: uppercase; } */
+
+#pera1{
+color: brown;
+font-style: italic;
+}
+
+
+.pera1{
+color: rgb(30, 0, 255);
+text-decoration: underline;
+width: 10px;
+text-transform: uppercase;
+}
+
+
+.pera2{
+color: rgb(226, 43, 165);
+background-color: rgb(76, 226, 43);
+}
