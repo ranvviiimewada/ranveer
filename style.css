@@ -28,16 +28,47 @@ text-transform: uppercase;
 .pera2{
 color: rgb(226, 43, 165);
 background-color: rgb(76, 226, 43);
-width: 10px;
-text-transform: uppercase;
 
 }
 
 
 #pera2{
 color: rgb(226, 43, 165);
-background-color: rgb(211, 31, 157);
-width: 10px;
-text-transform: uppercase;
+background-color: rgb(169, 204, 15);
+
+
+}
+
+
+
+#mainbox{
+
+background-color: blanchedalmond;
+display: flex;
+
+justify-content: center;
+              /* space-between
+              space-around */
+ align-items: center;
+ gap: 20px;
+
+ 
+
+}
+
+.box {
+
+
+      width: 200px;
+      height: 300px;
+      background-color: lightblue;
+      border: 2px solid black;
+      padding: 20px;
+      margin: 50px auto;
+      text-align: center;
+      font-size: 20px;
+      border-radius: 10px;
+    
+
 
 }
