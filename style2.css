@@ -4,8 +4,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 gap: 20px;
-background-color: rgba(176, 89, 43, 0.492);
-
+background-color: rgb(255, 254, 253);
 
 
 }
@@ -21,17 +20,18 @@ align-items: center;
 gap: 20px;
 
 
+
 }
 
 #box div{
 
-    width: 250px;
-    height: 300px;
+    width: 150px;
+    height: 30px;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
-
+border-radius: 30px;
 
 
 }
